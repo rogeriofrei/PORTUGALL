@@ -1,0 +1,1301 @@
+
+
+#EXTINF:-1,PT: 24 Kitchen FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49965
+#EXTINF:-1,PT: A BOLA TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2080
+#EXTINF:-1,PT: AMC
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2088
+#EXTINF:-1,PT: AXN FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/288
+#EXTINF:-1,PT: AXN Movies FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49966
+#EXTINF:-1,PT: AXN WHITE FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/289
+#EXTINF:-1,PT: BABY TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2398
+#EXTINF:-1,PT: BENFICA TV FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/286
+#EXTINF:-1,PT: Benfica TV FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49967
+#EXTINF:-1,PT: CANAL 11 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52208
+#EXTINF:-1,PT: CANAL HISTORIA
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46617
+#EXTINF:-1,PT: CANAL PANDA
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1258
+#EXTINF:-1,PT: CANAL Q
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2066
+#EXTINF:-1,PT: Cartoon Network
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49968
+#EXTINF:-1,PT: Casa e Cozinha FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49969
+#EXTINF:-1,PT: CAÇA & PESCA
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2082
+#EXTINF:-1,PT: CBS Reality
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49970
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46621
+#EXTINF:-1,PT: CM TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1619
+#EXTINF:-1,PT: CNN PORTUGAL FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54595
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/743
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46625
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/742
+#EXTINF:-1,PT: E! Entertainment FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46627
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54740
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54741
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/53509
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54742
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/53510
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54743
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/53511
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54744
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/53512
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54745
+#EXTINF:-1,PT: EuroNews
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52074
+#EXTINF:-1,PT: EUROSPORT 1
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46628
+#EXTINF:-1,PT: Eurosport 2 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49971
+#EXTINF:-1,PT: Food Network
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49974
+#EXTINF:-1,PT: Fox Comedy FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1517
+#EXTINF:-1,PT: FOX CRIME
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/879
+#EXTINF:-1,PT: FOX LIFE
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46631
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46632
+#EXTINF:-1,PT: FOX TV FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/740
+#EXTINF:-1,PT: Fuel TV FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49975
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52187
+#EXTINF:-1,PT: Jim Jam
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49977
+#EXTINF:-1,PT: Kombat Sport
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49978
+#EXTINF:-1,PT: MOTORVISION FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2073
+#EXTINF:-1,PT: MOTORVISION TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2081
+#EXTINF:-1,PT: Mtv Portuga
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2396
+#EXTINF:-1,PT: Nat Geo Wild
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/738
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2089
+#EXTINF:-1,PT: NBA HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49979
+#EXTINF:-1,PT: NICKELODEON
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2099
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52186
+#EXTINF:-1,PT: ODISSEIA FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1859
+#EXTINF:-1,PT: canal Panda
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49980
+#EXTINF:-1,PT: Panda Biggs
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49981
+#EXTINF:-1,PT: PFC
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46642
+#EXTINF:-1,PT: PORTO CANAL
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1515
+#EXTINF:-1,PT: Real Madrid TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49982
+#EXTINF:-1,PT: RTP 1
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1512
+#EXTINF:-1,PT: RTP 2
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1513
+#EXTINF:-1,PT: RTP 3 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1514
+#EXTINF:-1,PT: RTP AÇORES
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2062
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1857
+#EXTINF:-1,PT: RTP ÁFRICA
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1519
+#EXTINF:-1,PT: SIC Caras FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49983
+#EXTINF:-1,PT: Sic FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1953
+#EXTINF:-1,PT: SIC Kids FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49984
+#EXTINF:-1,PT: SIC MULHER
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1520
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/275
+#EXTINF:-1,PT: SIC RADICAL HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/733
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/280
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/281
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/282
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/283
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/284
+#EXTINF:-1,PT: SPORTING TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/285
+#EXTINF:-1,PT: SYFY FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/279
+#EXTINF:-1,PT: TCV International HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/53391
+#EXTINF:-1,PT: TLC
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/2091
+#EXTINF:-1,PT: TOROS TV
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46662
+#EXTINF:-1,PT: Travel Channel
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/49985
+#EXTINF:-1,PT: TV CINE ACTION FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/270
+#EXTINF:-1,PT: TV CINE EDITION FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/269
+#EXTINF:-1,PT: TV CINE Emotion  FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/268
+#EXTINF:-1,PT: TV CINE TOP  FullHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/267
+#EXTINF:-1,PT: TV GLOBO
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/274
+#EXTINF:-1,PT: TV Globo NOW
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/46668
+#EXTINF:-1,PT: TV RECORD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/273
+#EXTINF:-1,PT: TVI FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/266
+#EXTINF:-1,PT: TVI 24
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/265
+#EXTINF:-1,PT: TVI FICCAO FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52207
+#EXTINF:-1,PT: TVI REALITY HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/731
+#EXTINF:-1,PT: ARTV HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/1259
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/52045
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/50902
+#EXTINF:-1,PT: Cancao Nova
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54898
+#EXTINF:-1,PT: AMC Break
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54918
+#EXTINF:-1,PT: CACAVISION HD
+http://server.sibfungold.info:8080/cf9acd85764814d6/4VorqrmJXO4QtczpbU8N/54919
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+#EXTINF:-1,PT: 24 Kitchen
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2025
+#EXTINF:-1,PT: A Bola TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1420
+#EXTINF:-1,PT: A&E
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279741
+#EXTINF:-1,PT: ADB TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299412
+#EXTINF:-1,PT: Advnce SIC
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290666
+#EXTINF:-1,PT: Afro Music Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1536
+#EXTINF:-1,PT: Alma Lusa
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/264642
+#EXTINF:-1,PT: AMC
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1473
+#EXTINF:-1,PT: Apaixonados Series
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286834
+#EXTINF:-1,PT: AR TV Canal Parlamento
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300645
+#EXTINF:-1,PT: AXN
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1469
+#EXTINF:-1,PT: AXN Black
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278653
+#EXTINF:-1,PT: AXN Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1471
+#EXTINF:-1,PT: AXN White
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1467
+#EXTINF:-1,PT: Baby TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1441
+#EXTINF:-1,PT: Benfica TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1497
+#EXTINF:-1,PT: Biggs
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1439
+#EXTINF:-1,PT: Blaze
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3996
+#EXTINF:-1,PT: Bloomberg
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5933
+#EXTINF:-1,PT: Boomerang
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/24529
+#EXTINF:-1,PT: Campo Pequeno
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/28029
+#EXTINF:-1,PT: Canal 11
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1480
+#EXTINF:-1,PT: CANAL 180
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146057
+#EXTINF:-1,PT: Canal Hollywood
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1455
+#EXTINF:-1,PT: Canal Macau
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/197872
+#EXTINF:-1,PT: Canal Nos
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278550
+#EXTINF:-1,PT: Canal Panda
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1438
+#EXTINF:-1,PT: Canal Q
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1430
+#EXTINF:-1,PT: Cancao Nova
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290766
+#EXTINF:-1,PT: Cartoon Network
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1440
+#EXTINF:-1,PT: Cartoonito
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300637
+#EXTINF:-1,PT: Casa e Cozinha
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6097
+#EXTINF:-1,PT: Caza y Pesca
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297997
+#EXTINF:-1,PT: Caçavision
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13956
+#EXTINF:-1,PT: CBS Reality
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1528
+#EXTINF:-1,PT: Cine Mundo
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1477
+#EXTINF:-1,PT: CINEMA FANTASIA
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286838
+#EXTINF:-1,PT: CINEMA JACKIE CHAN
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286832
+#EXTINF:-1,PT: CM TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1412
+#EXTINF:-1,PT: CNN Portugal
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1414
+#EXTINF:-1,PT: Crime District
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298636
+#EXTINF:-1,PT: Crime+ Investigation
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5928
+#EXTINF:-1,PT: Discovery World
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296226
+#EXTINF:-1,PT: Disney Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1434
+#EXTINF:-1,PT: Disney Junior
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1435
+#EXTINF:-1,PT: Disney+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226084
+#EXTINF:-1,PT: Dizi Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/300240
+#EXTINF:-1,PT: E!
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1526
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1515
+#EXTINF:-1,PT: euronews
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4007
+#EXTINF:-1,PT: Eurosport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1517
+#EXTINF:-1,PT: Eurosport 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1518
+#EXTINF:-1,PT: FASHIONTV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2656
+#EXTINF:-1,PT: Food Network
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2044
+#EXTINF:-1,PT: FOX
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1461
+#EXTINF:-1,PT: Fox Comedy
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1465
+#EXTINF:-1,PT: Fox Crime
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1463
+#EXTINF:-1,PT: Fox Life
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1459
+#EXTINF:-1,PT: FOX Movies
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1457
+#EXTINF:-1,PT: Fuel TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1521
+#EXTINF:-1,PT: Historia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1525
+#EXTINF:-1,PT: Investigation Discovery
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5914
+#EXTINF:-1,PT: Kuriakos Kids
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/10828
+#EXTINF:-1,PT: Kuriakos TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9697
+#EXTINF:-1,PT: MEO Destaques
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265256
+#EXTINF:-1,PT: MEO Videoclube
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/265255
+#EXTINF:-1,PT: Motorvision TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4012
+#EXTINF:-1,PT: MTV Live
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/198683
+#EXTINF:-1,PT: MTV Portugal
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1534
+#EXTINF:-1,PT: NAT GEO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1530
+#EXTINF:-1,PT: NAT GEO Wild
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1531
+#EXTINF:-1,PT: NBA TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/296750
+#EXTINF:-1,PT: Netflix
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/24517
+#EXTINF:-1,PT: Netflix Kids
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/201051
+#EXTINF:-1,PT: Nick Junior
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/9693
+#EXTINF:-1,PT: nickelodeon
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1436
+#EXTINF:-1,PT: Nos Studios
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1454
+#EXTINF:-1,PT: Odisseia
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1532
+#EXTINF:-1,PT: OPTO
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299728
+#EXTINF:-1,PT: PANDA Kids
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290678
+#EXTINF:-1,PT: Porto Canal
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1419
+#EXTINF:-1,PT: Queens United TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299377
+#EXTINF:-1,PT: Record TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298700
+#EXTINF:-1,PT: RTP 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1404
+#EXTINF:-1,PT: RTP 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1406
+#EXTINF:-1,PT: RTP 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1418
+#EXTINF:-1,PT: RTP Arena
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290673
+#EXTINF:-1,PT: RTP Açores
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2055
+#EXTINF:-1,PT: RTP Internacional
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278418
+#EXTINF:-1,PT: RTP Madeira
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278558
+#EXTINF:-1,PT: RTP Memória
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1425
+#EXTINF:-1,PT: RTP África
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1424
+#EXTINF:-1,PT: SAUDE+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/81973
+#EXTINF:-1,PT: SIC
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1408
+#EXTINF:-1,PT: SIC Caras
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/5910
+#EXTINF:-1,PT: SIC Internacional
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297535
+#EXTINF:-1,PT: SIC K
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4021
+#EXTINF:-1,PT: SIC Mulher
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1427
+#EXTINF:-1,PT: SIC Noticias
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1416
+#EXTINF:-1,PT: SIC Novelas
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299727
+#EXTINF:-1,PT: SIC Radical
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1429
+#EXTINF:-1,PT: SPORT TV +
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1481
+#EXTINF:-1,PT: SPORT TV 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/281487
+#EXTINF:-1,PT: SPORT TV NBA
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/2051
+#EXTINF:-1,PT: Sporting TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1519
+#EXTINF:-1,PT: SYFY Portugal
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1475
+#EXTINF:-1,PT: TCV Internacional
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299134
+#EXTINF:-1,PT: TLC
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1479
+#EXTINF:-1,PT: TPA Notícias
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298022
+#EXTINF:-1,PT: Travel Channel
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1529
+#EXTINF:-1,PT: Travelxp
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/301244
+#EXTINF:-1,PT: TV Mana 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298811
+#EXTINF:-1,PT: TVCine Action
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1452
+#EXTINF:-1,PT: TVCine Edition
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1448
+#EXTINF:-1,PT: TVCine Top
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1446
+#EXTINF:-1,PT: TVCine+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/278686
+#EXTINF:-1,PT: TVI
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1410
+#EXTINF:-1,PT: TVI Ficção
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1421
+#EXTINF:-1,PT: TVI Reality
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1423
+#EXTINF:-1,PT: Way TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299411
+#EXTINF:-1,PT001:A&E
+http://abcnew.site:8880/1mk050047/48981469/3249
+#EXTINF:-1,PT002:A Bola TV
+http://abcnew.site:8880/1mk050047/48981469/3248
+#EXTINF:-1,PT003:Afro Music
+http://abcnew.site:8880/1mk050047/48981469/3247
+#EXTINF:-1,PT004:AMC
+http://abcnew.site:8880/1mk050047/48981469/3246
+#EXTINF:-1,PT005:ARTV
+http://abcnew.site:8880/1mk050047/48981469/3245
+#EXTINF:-1,PT006:AXN
+http://abcnew.site:8880/1mk050047/48981469/3244
+#EXTINF:-1,PT007:AXN Black
+http://abcnew.site:8880/1mk050047/48981469/3243
+#EXTINF:-1,PT008:AXN White
+http://abcnew.site:8880/1mk050047/48981469/3242
+#EXTINF:-1,PT009:Baby First
+http://abcnew.site:8880/1mk050047/48981469/3241
+#EXTINF:-1,PT010:Baby TV
+http://abcnew.site:8880/1mk050047/48981469/3240
+#EXTINF:-1,PT011:Benfica TV 1 FHD
+http://abcnew.site:8880/1mk050047/48981469/3239
+#EXTINF:-1,PT012:Benfica TV 1 HD
+http://abcnew.site:8880/1mk050047/48981469/3238
+#EXTINF:-1,PT013:Benfica TV 1 SD
+http://abcnew.site:8880/1mk050047/48981469/3237
+#EXTINF:-1,PT014:Deutsche Welle
+http://abcnew.site:8880/1mk050047/48981469/3236
+#EXTINF:-1,PT015:Canal Panda
+http://abcnew.site:8880/1mk050047/48981469/3235
+#EXTINF:-1,PT016:Cartoon Network
+http://abcnew.site:8880/1mk050047/48981469/3234
+#EXTINF:-1,PT017:Casa E Pesca
+http://abcnew.site:8880/1mk050047/48981469/3233
+#EXTINF:-1,PT018:CBS Reality
+http://abcnew.site:8880/1mk050047/48981469/3232
+#EXTINF:-1,PT019:Cine Mundo
+http://abcnew.site:8880/1mk050047/48981469/3231
+#EXTINF:-1,PT020:Discovery Channel
+http://abcnew.site:8880/1mk050047/48981469/3230
+#EXTINF:-1,PT021:Discovery Showcase
+http://abcnew.site:8880/1mk050047/48981469/3229
+#EXTINF:-1,PT024:E! Entertainment
+http://abcnew.site:8880/1mk050047/48981469/3226
+#EXTINF:-1,PT025:Euro Sport 1
+http://abcnew.site:8880/1mk050047/48981469/3225
+#EXTINF:-1,PT026:Euro Sport 2
+http://abcnew.site:8880/1mk050047/48981469/3224
+#EXTINF:-1,PT027:Eurosport new
+http://abcnew.site:8880/1mk050047/48981469/3223
+#EXTINF:-1,PT028:Fox Comedy
+http://abcnew.site:8880/1mk050047/48981469/3222
+#EXTINF:-1,PT029:Fox Crime
+http://abcnew.site:8880/1mk050047/48981469/3221
+#EXTINF:-1,PT030:Fox
+http://abcnew.site:8880/1mk050047/48981469/3220
+#EXTINF:-1,PT031:Fox Life
+http://abcnew.site:8880/1mk050047/48981469/3219
+#EXTINF:-1,PT032:Fox Movies
+http://abcnew.site:8880/1mk050047/48981469/3218
+#EXTINF:-1,PT033:Fuel TV
+http://abcnew.site:8880/1mk050047/48981469/3217
+#EXTINF:-1,PT034:Globo
+http://abcnew.site:8880/1mk050047/48981469/3216
+#EXTINF:-1,PT035:Historia
+http://abcnew.site:8880/1mk050047/48981469/3215
+#EXTINF:-1,PT036:Hollywood
+http://abcnew.site:8880/1mk050047/48981469/3214
+#EXTINF:-1,PT037:Jim Jam
+http://abcnew.site:8880/1mk050047/48981469/3213
+#EXTINF:-1,PT039:MOV
+http://abcnew.site:8880/1mk050047/48981469/3211
+#EXTINF:-1,PT040:Motors TV
+http://abcnew.site:8880/1mk050047/48981469/3210
+#EXTINF:-1,PT041:Motorvision
+http://abcnew.site:8880/1mk050047/48981469/3209
+#EXTINF:-1,PT043:MTV Portuga
+http://abcnew.site:8880/1mk050047/48981469/3207
+#EXTINF:-1,PT044:NAT GEO Wild
+http://abcnew.site:8880/1mk050047/48981469/3206
+#EXTINF:-1,PT045:NAT GEO
+http://abcnew.site:8880/1mk050047/48981469/3205
+#EXTINF:-1,PT046:Nickelodeon
+http://abcnew.site:8880/1mk050047/48981469/3204
+#EXTINF:-1,PT047:Odisseia
+http://abcnew.site:8880/1mk050047/48981469/3203
+#EXTINF:-1,PT048:Panda Biggs
+http://abcnew.site:8880/1mk050047/48981469/3202
+#EXTINF:-1,PT049:PFC
+http://abcnew.site:8880/1mk050047/48981469/3201
+#EXTINF:-1,PT050:Porto Canal
+http://abcnew.site:8880/1mk050047/48981469/3200
+#EXTINF:-1,PT051:RTP 1
+http://abcnew.site:8880/1mk050047/48981469/3199
+#EXTINF:-1,PT052:RTP 2
+http://abcnew.site:8880/1mk050047/48981469/3198
+#EXTINF:-1,PT053:RTP 3
+http://abcnew.site:8880/1mk050047/48981469/3197
+#EXTINF:-1,PT054:SIC
+http://abcnew.site:8880/1mk050047/48981469/3196
+#EXTINF:-1,PT055:SIC Mulher
+http://abcnew.site:8880/1mk050047/48981469/3195
+#EXTINF:-1,PT056:SIC Noticias
+http://abcnew.site:8880/1mk050047/48981469/3194
+#EXTINF:-1,PT057:SIC Radical
+http://abcnew.site:8880/1mk050047/48981469/3193
+#EXTINF:-1,PT058:Sport TV 1 HD
+http://abcnew.site:8880/1mk050047/48981469/3192
+#EXTINF:-1,PT059:Sport TV 2 HD
+http://abcnew.site:8880/1mk050047/48981469/3191
+#EXTINF:-1,PT060:Sport TV 3 HD
+http://abcnew.site:8880/1mk050047/48981469/3190
+#EXTINF:-1,PT061:Sport TV 4 HD
+http://abcnew.site:8880/1mk050047/48981469/3189
+#EXTINF:-1,PT062:Sport TV 5 HD
+http://abcnew.site:8880/1mk050047/48981469/3188
+#EXTINF:-1,PT063:SPORT TV+
+http://abcnew.site:8880/1mk050047/48981469/3187
+#EXTINF:-1,PT064:Sporting TV
+http://abcnew.site:8880/1mk050047/48981469/3186
+#EXTINF:-1,PT065:SYFY
+http://abcnew.site:8880/1mk050047/48981469/3185
+#EXTINF:-1,PT066:TLC
+http://abcnew.site:8880/1mk050047/48981469/3184
+#EXTINF:-1,PT067:Toros TV
+http://abcnew.site:8880/1mk050047/48981469/3183
+#EXTINF:-1,PT068:Travel Channel
+http://abcnew.site:8880/1mk050047/48981469/3182
+#EXTINF:-1,PT069:TV Cine Top
+http://abcnew.site:8880/1mk050047/48981469/3181
+#EXTINF:-1,PT070:TV Cine Emotion
+http://abcnew.site:8880/1mk050047/48981469/3180
+#EXTINF:-1,PT071:TV Cine Action
+http://abcnew.site:8880/1mk050047/48981469/3179
+#EXTINF:-1,PT072:TV Cine Edition
+http://abcnew.site:8880/1mk050047/48981469/3178
+#EXTINF:-1,PT073:TV Galicia
+http://abcnew.site:8880/1mk050047/48981469/3177
+#EXTINF:-1,PT074:Globo Now
+http://abcnew.site:8880/1mk050047/48981469/3176
+#EXTINF:-1,PT075:TV Record
+http://abcnew.site:8880/1mk050047/48981469/3175
+#EXTINF:-1,PT076:Fashion TV
+http://abcnew.site:8880/1mk050047/48981469/3174
+#EXTINF:-1,PT077:TVI
+http://abcnew.site:8880/1mk050047/48981469/3173
+#EXTINF:-1,PT078:TVI 24
+http://abcnew.site:8880/1mk050047/48981469/3172
+#EXTINF:-1,PT079:VH1
+http://abcnew.site:8880/1mk050047/48981469/3171
+#EXTINF:-1,PT080:VH1 Classic
+http://abcnew.site:8880/1mk050047/48981469/3170
+#EXTINF:-1,PT081:TVI Reality
+http://abcnew.site:8880/1mk050047/48981469/29409
+#EXTINF:-1,PT082:TVC HD
+http://abcnew.site:8880/1mk050047/48981469/29408
+#EXTINF:-1,PT083:Foods Network
+http://abcnew.site:8880/1mk050047/48981469/29407
+#EXTINF:-1,PT084:Clubbing TV
+http://abcnew.site:8880/1mk050047/48981469/29406
+#EXTINF:-1,PT085:BomSom
+http://abcnew.site:8880/1mk050047/48981469/29405
+#EXTINF:-1,PT086:RTP Africa
+http://abcnew.site:8880/1mk050047/48981469/29404
+#EXTINF:-1,PT087:RTP ACORES
+http://abcnew.site:8880/1mk050047/48981469/29403
+#EXTINF:-1,PT088:RTP MADEIRA
+http://abcnew.site:8880/1mk050047/48981469/29402
+#EXTINF:-1,PT089:Nickelodeon
+http://abcnew.site:8880/1mk050047/48981469/29401
+#EXTINF:-1,PT090:Somos
+http://abcnew.site:8880/1mk050047/48981469/29400
+#EXTINF:-1,PT091:KIKA
+http://abcnew.site:8880/1mk050047/48981469/29399
+#EXTINF:-1,PT092:NOS Studios
+http://abcnew.site:8880/1mk050047/48981469/29398
+#EXTINF:-1,PT095:Galeria
+http://abcnew.site:8880/1mk050047/48981469/29395
+#EXTINF:-1,PT096:CANAL Q
+http://abcnew.site:8880/1mk050047/48981469/29394
+#EXTINF:-1,PT097:24 Kitchen
+http://abcnew.site:8880/1mk050047/48981469/29393
+#EXTINF:-1,PT098:SPORT TV 1 FHD
+http://abcnew.site:8880/1mk050047/48981469/29392
+#EXTINF:-1,PT099:SPORT TV 2 FHD
+http://abcnew.site:8880/1mk050047/48981469/29391
+#EXTINF:-1,PT100:SPORT TV 3 FHD
+http://abcnew.site:8880/1mk050047/48981469/29390
+#EXTINF:-1,PT101:SPORT TV 4 FHD
+http://abcnew.site:8880/1mk050047/48981469/29389
+#EXTINF:-1,PT106:Blaze
+http://abcnew.site:8880/1mk050047/48981469/29384
+#EXTINF:-1,PT107:Bloomberg
+http://abcnew.site:8880/1mk050047/48981469/29383
+#EXTINF:-1,PT108:Caca E Pesca
+http://abcnew.site:8880/1mk050047/48981469/29382
+#EXTINF:-1,PT109:TVI Ficcao HD
+http://abcnew.site:8880/1mk050047/48981469/29381
+#EXTINF:-1,PT110:MCM POP
+http://abcnew.site:8880/1mk050047/48981469/29380
+#EXTINF:-1,PT111:Trace Urban
+http://abcnew.site:8880/1mk050047/48981469/29379
+#EXTINF:-1,PT112:Canal 11
+http://abcnew.site:8880/1mk050047/48981469/29378
+#EXTINF:-1,PT113:CMTV FHD
+http://abcnew.site:8880/1mk050047/48981469/29377
+#EXTINF:-1,PT114:Cancao Nova
+http://abcnew.site:8880/1mk050047/48981469/29376
+#EXTINF:-1,PT115:CNN
+http://abcnew.site:8880/1mk050047/48981469/29375
+#EXTINF:-1,PT116:Crime & Investigation
+http://abcnew.site:8880/1mk050047/48981469/29374
+#EXTINF:-1,PT118:TPA
+http://abcnew.site:8880/1mk050047/48981469/29372
+#EXTINF:-1,PT119:Eleven Sports 3 FHD
+http://abcnew.site:8880/1mk050047/48981469/29371
+#EXTINF:-1,PT120:Eleven Sports 4 FHD
+http://abcnew.site:8880/1mk050047/48981469/29370
+#EXTINF:-1,PT121:Eleven Sports 5 SD
+http://abcnew.site:8880/1mk050047/48981469/29369
+#EXTINF:-1,PT122:Eleven Sports 6 FHD
+http://abcnew.site:8880/1mk050047/48981469/29368
+#EXTINF:-1,PT123:Investigation Discovery HD
+http://abcnew.site:8880/1mk050047/48981469/29367
+#EXTINF:-1,PT124:Sport TV NBA
+http://abcnew.site:8880/1mk050047/48981469/29366
+#EXTINF:-1,PT125:DOG TV
+http://abcnew.site:8880/1mk050047/48981469/29365
+#EXTINF:-1,PT126:FOX NEWS
+http://abcnew.site:8880/1mk050047/48981469/29364
+#EXTINF:-1,PT127:Caca Vision
+http://abcnew.site:8880/1mk050047/48981469/29363
+#EXTINF:-1,PT128:Dizi Channel
+http://abcnew.site:8880/1mk050047/48981469/29362
+#EXTINF:-1,PT129:CGTN
+http://abcnew.site:8880/1mk050047/48981469/29361
+#EXTINF:-1,PT130:Euronews
+http://abcnew.site:8880/1mk050047/48981469/29360
+#EXTINF:-1,PT131:A3 Cine
+http://abcnew.site:8880/1mk050047/48981469/29359
+#EXTINF:-1,PT132:Fight Network
+http://abcnew.site:8880/1mk050047/48981469/29358
+#EXTINF:-1,PT134:Eleven Sports 2 SD
+http://abcnew.site:8880/1mk050047/48981469/29356
+#EXTINF:-1,PT136:Nick Jr
+http://abcnew.site:8880/1mk050047/48981469/29354
+#EXTINF:-1,PT137:Alma Lusa
+http://abcnew.site:8880/1mk050047/48981469/29353
+#EXTINF:-1,PT138:MEZZO HD
+http://abcnew.site:8880/1mk050047/48981469/29352
+#EXTINF:-1,PT139:Sol Musica
+http://abcnew.site:8880/1mk050047/48981469/29351
+#EXTINF:-1,PT140:Zap Viva HD
+http://abcnew.site:8880/1mk050047/48981469/29350
+#EXTINF:-1,PT141:NBA FHD
+http://abcnew.site:8880/1mk050047/48981469/29349
+#EXTINF:-1,PT142:Localvisao
+http://abcnew.site:8880/1mk050047/48981469/29348
+#EXTINF:-1,PT143:Record News
+http://abcnew.site:8880/1mk050047/48981469/29347
+#EXTINF:-1,PT144:Canal Cocina
+http://abcnew.site:8880/1mk050047/48981469/29346
+#EXTINF:-1,PT145:Eleven Sports 3 SD
+http://abcnew.site:8880/1mk050047/48981469/29345
+#EXTINF:-1,PT146:Eleven Sports 4 SD
+http://abcnew.site:8880/1mk050047/48981469/29344
+#EXTINF:-1,PT147:CBS Reality
+http://abcnew.site:8880/1mk050047/48981469/29343
+#EXTINF:-1,PT148:SPORT TV 6 HD
+http://abcnew.site:8880/1mk050047/48981469/29342
+#EXTINF:-1,PT149:SIC Kids
+http://abcnew.site:8880/1mk050047/48981469/29341
+#EXTINF:-1,PT150:BVN
+http://abcnew.site:8880/1mk050047/48981469/29340
+#EXTINF:-1,PT151:Kuriakos TV
+http://abcnew.site:8880/1mk050047/48981469/29339
+#EXTINF:-1,PT152:NLO TV 2
+http://abcnew.site:8880/1mk050047/48981469/29338
+#EXTINF:-1,PT153:SIC Caras
+http://abcnew.site:8880/1mk050047/48981469/29337
+#EXTINF:-1,PT154:Game Toon
+http://abcnew.site:8880/1mk050047/48981469/29336
+#EXTINF:-1,PT155:A3 Series
+http://abcnew.site:8880/1mk050047/48981469/29335
+#EXTINF:-1,PT156:Eleven Sports 1 SD
+http://abcnew.site:8880/1mk050047/48981469/29334
+#EXTINF:-1,PT157:Eleven Sports 1 FHD
+http://abcnew.site:8880/1mk050047/48981469/49966
+#EXTINF:-1,PT158:SPORT TV 5 FHD
+http://abcnew.site:8880/1mk050047/48981469/49958
+#EXTINF:-1,PT159:Eleven Sports 2 FHD
+http://abcnew.site:8880/1mk050047/48981469/49032
+#EXTINF:-1,24 Kitchen FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4642.ts
+#EXTINF:-1,A Bola TV
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4658.ts
+#EXTINF:-1,A&E
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4639.ts
+#EXTINF:-1,Afro Music
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4630.ts
+#EXTINF:-1,AMC HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4570.ts
+#EXTINF:-1,AXN BLACK
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4607.ts
+#EXTINF:-1,AXN HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4605.ts
+#EXTINF:-1,AXN Movies HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4571.ts
+#EXTINF:-1,AXN WHITE HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4606.ts
+#EXTINF:-1,Baby Tv
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4573.ts
+#EXTINF:-1,BENFICA TV 1 FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4651.ts
+#EXTINF:-1,Biggs
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4604.ts
+#EXTINF:-1,Bloomberg
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4625.ts
+#EXTINF:-1,Canal NOS
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4621.ts
+#EXTINF:-1,Canal Panda
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4598.ts
+#EXTINF:-1,Canal Q
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4586.ts
+#EXTINF:-1,Cancao Nova
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4596.ts
+#EXTINF:-1,Cartoon Network
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4599.ts
+#EXTINF:-1,CaÃ§a e Pesca
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4637.ts
+#EXTINF:-1,CaÃ§avision
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4644.ts
+#EXTINF:-1,CINE MUNDO
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4619.ts
+#EXTINF:-1,CMTV
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4657.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4636.ts
+#EXTINF:-1,Discovery FHD Showcase
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4635.ts
+#EXTINF:-1,Disney Channel
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4600.ts
+#EXTINF:-1,Disney Junior
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4601.ts
+#EXTINF:-1,E! ENTERTAINMENT
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4643.ts
+#EXTINF:-1,Eleven Sports 1 FHD (back up)
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4670.ts
+#EXTINF:-1,Eleven Sports 1 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4669.ts
+#EXTINF:-1,Eleven Sports 1 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4671.ts
+#EXTINF:-1,Eleven Sports 1 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4672.ts
+#EXTINF:-1,Eleven Sports 2 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4673.ts
+#EXTINF:-1,Eleven Sports 2 HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4674.ts
+#EXTINF:-1,Eleven Sports 2 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4675.ts
+#EXTINF:-1,Eleven Sports 2 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4676.ts
+#EXTINF:-1,Eleven Sports 3 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4677.ts
+#EXTINF:-1,Eleven Sports 3 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4678.ts
+#EXTINF:-1,Eleven Sports 3 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4679.ts
+#EXTINF:-1,Eleven Sports 3 SD (back up)
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4680.ts
+#EXTINF:-1,Eleven Sports 4 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4682.ts
+#EXTINF:-1,Eleven Sports 4 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4683.ts
+#EXTINF:-1,Eleven Sports 4 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4684.ts
+#EXTINF:-1,Eleven Sports 4 SD (back up)
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4685.ts
+#EXTINF:-1,Eleven Sports 5 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4686.ts
+#EXTINF:-1,Eleven Sports 5 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4687.ts
+#EXTINF:-1,Eleven Sports 5 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4688.ts
+#EXTINF:-1,Eleven Sports 6 FHD 1080
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4689.ts
+#EXTINF:-1,Eleven Sports 6 HD 720
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4690.ts
+#EXTINF:-1,Eleven Sports 6 SD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4681.ts
+#EXTINF:-1,Euronews
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4624.ts
+#EXTINF:-1,EUROSPORT 1
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4647.ts
+#EXTINF:-1,Eurosport 1 FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4646.ts
+#EXTINF:-1,EUROSPORT 2
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4648.ts
+#EXTINF:-1,Fisclo
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4572.ts
+#EXTINF:-1,FOX COMEDY
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4616.ts
+#EXTINF:-1,FOX CRIME
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4615.ts
+#EXTINF:-1,FOX HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4612.ts
+#EXTINF:-1,Fox Life HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4613.ts
+#EXTINF:-1,FOX MOVIES
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4614.ts
+#EXTINF:-1,Historia
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4640.ts
+#EXTINF:-1,Hollywood FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4618.ts
+#EXTINF:-1,Jim Jam
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4603.ts
+#EXTINF:-1,Kombat Sport
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4655.ts
+#EXTINF:-1,MCM Pop
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4628.ts
+#EXTINF:-1,Mezzo
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4627.ts
+#EXTINF:-1,Motorsport.tv
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4654.ts
+#EXTINF:-1,Motorvision
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4653.ts
+#EXTINF:-1,MTV Portugal
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4626.ts
+#EXTINF:-1,NAT GEO HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4634.ts
+#EXTINF:-1,Nat Geo Wild
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4633.ts
+#EXTINF:-1,NBA TV
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4652.ts
+#EXTINF:-1,NICKELODEON
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4602.ts
+#EXTINF:-1,ODISSEIA
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4638.ts
+#EXTINF:-1,PFC HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4656.ts
+#EXTINF:-1,Porto Canal
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4587.ts
+#EXTINF:-1,Real Madrid TV
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4650.ts
+#EXTINF:-1,RTP 1
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4574.ts
+#EXTINF:-1,RTP 2
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4575.ts
+#EXTINF:-1,RTP 3
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4576.ts
+#EXTINF:-1,RTP Acores
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4577.ts
+#EXTINF:-1,RTP Africa
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4580.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4581.ts
+#EXTINF:-1,RTP Madeira
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4578.ts
+#EXTINF:-1,RTP Memoria
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4579.ts
+#EXTINF:-1,Sic
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4582.ts
+#EXTINF:-1,SIC Mulher
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4583.ts
+#EXTINF:-1,SIC NOTICIAS
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4584.ts
+#EXTINF:-1,SIC Radical
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4585.ts
+#EXTINF:-1,SPORT TV +
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4649.ts
+#EXTINF:-1,Sport TV 1
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4662.ts
+#EXTINF:-1,Sport TV 1 FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4660.ts
+#EXTINF:-1,SPORT TV 1 HD (720P)
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4661.ts
+#EXTINF:-1,Sport TV 2
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4664.ts
+#EXTINF:-1,Sport TV 2 FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4663.ts
+#EXTINF:-1,Sport TV 3
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4666.ts
+#EXTINF:-1,Sport TV 3 FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4665.ts
+#EXTINF:-1,Sport TV 4
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4667.ts
+#EXTINF:-1,Sport TV 5
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4668.ts
+#EXTINF:-1,Sporting TV HD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4659.ts
+#EXTINF:-1,SYFY
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4617.ts
+#EXTINF:-1,TCV CABO VERDE
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4595.ts
+#EXTINF:-1,TLC
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4645.ts
+#EXTINF:-1,Toros TV
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4641.ts
+#EXTINF:-1,Trace Urban
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4629.ts
+#EXTINF:-1,Travel Channel FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4632.ts
+#EXTINF:-1,TV FAtima
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4597.ts
+#EXTINF:-1,TV Globo
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4622.ts
+#EXTINF:-1,TV Globo Premium
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4623.ts
+#EXTINF:-1,TV RECORD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4594.ts
+#EXTINF:-1,TV Series FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4620.ts
+#EXTINF:-1,TVCine Action FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4611.ts
+#EXTINF:-1,TVCine Edition FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4609.ts
+#EXTINF:-1,TVCine Emotion FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4608.ts
+#EXTINF:-1,TVCine Top FHD
+http://5.182.209.225:8080/live/9YWRad7Ueb/ERXyxqmUs6/4610.ts
+#EXTINF:-1,PT: 24 Kitchen FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49965
+#EXTINF:-1,PT: A BOLA TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2080
+#EXTINF:-1,PT: AMC
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2088
+#EXTINF:-1,PT: AXN FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/288
+#EXTINF:-1,PT: AXN Movies FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49966
+#EXTINF:-1,PT: AXN WHITE FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/289
+#EXTINF:-1,PT: BABY TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2398
+#EXTINF:-1,PT: BENFICA TV FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/286
+#EXTINF:-1,PT: Benfica TV FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49967
+#EXTINF:-1,PT: CANAL 11 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52208
+#EXTINF:-1,PT: CANAL HISTORIA
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46617
+#EXTINF:-1,PT: CANAL PANDA
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1258
+#EXTINF:-1,PT: CANAL Q
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2066
+#EXTINF:-1,PT: Cartoon Network
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49968
+#EXTINF:-1,PT: Casa e Cozinha FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49969
+#EXTINF:-1,PT: CAÇA & PESCA
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2082
+#EXTINF:-1,PT: CBS Reality
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49970
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46621
+#EXTINF:-1,PT: CM TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1619
+#EXTINF:-1,PT: CNN PORTUGAL FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54595
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/743
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46625
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/742
+#EXTINF:-1,PT: E! Entertainment FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46627
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54740
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54741
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/53509
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54742
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/53510
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54743
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/53511
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54744
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/53512
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54745
+#EXTINF:-1,PT: EuroNews
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52074
+#EXTINF:-1,PT: EUROSPORT 1
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46628
+#EXTINF:-1,PT: Eurosport 2 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49971
+#EXTINF:-1,PT: Food Network
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49974
+#EXTINF:-1,PT: Fox Comedy FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1517
+#EXTINF:-1,PT: FOX CRIME
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/879
+#EXTINF:-1,PT: FOX LIFE
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46631
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46632
+#EXTINF:-1,PT: FOX TV FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/740
+#EXTINF:-1,PT: Fuel TV FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49975
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52187
+#EXTINF:-1,PT: Jim Jam
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49977
+#EXTINF:-1,PT: Kombat Sport
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49978
+#EXTINF:-1,PT: MOTORVISION FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2073
+#EXTINF:-1,PT: MOTORVISION TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2081
+#EXTINF:-1,PT: Mtv Portuga
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2396
+#EXTINF:-1,PT: Nat Geo Wild
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/738
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2089
+#EXTINF:-1,PT: NBA HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49979
+#EXTINF:-1,PT: NICKELODEON
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2099
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52186
+#EXTINF:-1,PT: ODISSEIA FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1859
+#EXTINF:-1,PT: canal Panda
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49980
+#EXTINF:-1,PT: Panda Biggs
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49981
+#EXTINF:-1,PT: PFC
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46642
+#EXTINF:-1,PT: PORTO CANAL
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1515
+#EXTINF:-1,PT: Real Madrid TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49982
+#EXTINF:-1,PT: RTP 1
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1512
+#EXTINF:-1,PT: RTP 2
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1513
+#EXTINF:-1,PT: RTP 3 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1514
+#EXTINF:-1,PT: RTP AÇORES
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2062
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1857
+#EXTINF:-1,PT: RTP ÁFRICA
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1519
+#EXTINF:-1,PT: SIC Caras FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49983
+#EXTINF:-1,PT: Sic FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1953
+#EXTINF:-1,PT: SIC Kids FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49984
+#EXTINF:-1,PT: SIC MULHER
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1520
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/275
+#EXTINF:-1,PT: SIC RADICAL HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/733
+#EXTINF:-1,PT: SPORT TV 1 FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/280
+#EXTINF:-1,PT: SPORT TV 2 FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/281
+#EXTINF:-1,PT: SPORT TV 3 FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/282
+#EXTINF:-1,PT: SPORT TV 4 FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/283
+#EXTINF:-1,PT: SPORT TV 5 FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/284
+#EXTINF:-1,PT: SPORTING TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/285
+#EXTINF:-1,PT: SYFY FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/279
+#EXTINF:-1,PT: TCV International HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/53391
+#EXTINF:-1,PT: TLC
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/2091
+#EXTINF:-1,PT: TOROS TV
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46662
+#EXTINF:-1,PT: Travel Channel
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/49985
+#EXTINF:-1,PT: TV CINE ACTION FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/270
+#EXTINF:-1,PT: TV CINE EDITION FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/269
+#EXTINF:-1,PT: TV CINE Emotion  FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/268
+#EXTINF:-1,PT: TV CINE TOP  FullHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/267
+#EXTINF:-1,PT: TV GLOBO
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/274
+#EXTINF:-1,PT: TV Globo NOW
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/46668
+#EXTINF:-1,PT: TV RECORD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/273
+#EXTINF:-1,PT: TVI FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/266
+#EXTINF:-1,PT: TVI 24
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/265
+#EXTINF:-1,PT: TVI FICCAO FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52207
+#EXTINF:-1,PT: TVI REALITY HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/731
+#EXTINF:-1,PT: ARTV HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/1259
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/52045
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/50902
+#EXTINF:-1,PT: Cancao Nova
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54898
+#EXTINF:-1,PT: AMC Break
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54918
+#EXTINF:-1,PT: CACAVISION HD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/54919
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://server.sibfungold.info:8080/hmx.oscam/FRtgBhh521/50901
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
